@@ -13,4 +13,5 @@
 
 **but also, the meaning behind the plots and how to manipulate them to extract valuable meaning from the data.**
 ## How to study?
-**You are higly encouraged to clone this repo, run each notebook locally at the order shown and play around with them.**
+**You are higly encouraged to clone this repo, run each notebook locally at the order shown and play around with them. Basic comments will guide your studing but please keep in mind that this tutorial is meant to be taught face to face.  
+Cheers!**
