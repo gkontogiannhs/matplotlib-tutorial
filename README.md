@@ -4,7 +4,7 @@
 *2. Bar Charts*    
 *3. Pie Charts*    
 *4. Stack Plots*    
-*5. Area Filling Teqnuiqes*    
+*5. Area Filling Teqnuiches*    
 *6. Histograms*    
 *7. Scatter Plots*    
 *8. Time series*  
@@ -13,5 +13,5 @@
 
 **but also, the meaning behind the plots and how to manipulate them to extract valuable meaning from the data.**
 ## How to study?
-**You are higly encouraged to clone this repo, run each notebook locally at the order shown and play around with them. Basic comments will guide your studing but please keep in mind that this tutorial is meant to be taught face to face.  
+**You are higly encouraged to clone this repo, run each notebook locally at the order shown and play around with them. Basic comments will guide your studying but please keep in mind that this tutorial is meant to be taught face to face.  
 Cheers!**
