@@ -9,7 +9,7 @@
 *7. Scatter Plots*    
 *8. Time series*  
 *9. Real Time Ploting*  
-*10. Figures and axis*
+*10. Figure and axes*
 
 **but also, the meaning behind the plots and how to manipulate them to extract valuable meaning from the data.**
 ## How to study?
